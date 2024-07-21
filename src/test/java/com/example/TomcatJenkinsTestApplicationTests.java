@@ -1,10 +1,10 @@
-package com.example.jenkins_test;
+package com.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JenkinsTestApplicationTests {
+class TomcatJenkinsTestApplicationTests {
 
 	@Test
 	void contextLoads() {
